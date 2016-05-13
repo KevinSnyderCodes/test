@@ -8,7 +8,11 @@ print("z = " + z)
 
 a = 5
 
-i = 10
-while (i > 1):
-	i--
+j = 10
+while (j > 1):
+	j--
+i = 1
+while (i < 10):
+	i++
 print(i)
+print(j)
