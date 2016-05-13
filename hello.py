@@ -3,5 +3,5 @@ print("Hello!")
 x = 5
 print("x = " + x)
 
-y = 6
-print("y = " + y)
+z = 3
+print("z = " + z)
