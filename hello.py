@@ -5,3 +5,5 @@ print("x = " + x)
 
 z = 3
 print("z = " + z)
+
+a = 5
